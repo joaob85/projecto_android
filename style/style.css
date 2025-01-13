@@ -70,7 +70,7 @@ header > p {
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
-    margin-bottom: 20px;
+    padding-bottom: 40px;
     text-shadow: 4px 3px 5px rgba(0, 0, 0, 0.345);
 
 }
